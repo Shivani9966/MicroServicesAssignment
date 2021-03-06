@@ -1,0 +1,18 @@
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\OrderEntities\bin\Debug\netcoreapp3.1\OrderEntities.deps.json
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\OrderEntities\bin\Debug\netcoreapp3.1\OrderEntities.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\OrderEntities\bin\Debug\netcoreapp3.1\OrderEntities.pdb
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.csprojAssemblyReference.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.AssemblyInfoInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.AssemblyInfo.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.csproj.CoreCompileInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\OrderEntities\bin\Debug\netcoreapp3.1\OrderEntities.deps.json
+E:\Gateway\Final Assignment\MicroServicesTraining\OrderEntities\bin\Debug\netcoreapp3.1\OrderEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\OrderEntities\bin\Debug\netcoreapp3.1\OrderEntities.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.csprojAssemblyReference.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.AssemblyInfoInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.AssemblyInfo.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.csproj.CoreCompileInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\OrderEntities\obj\Debug\netcoreapp3.1\OrderEntities.pdb

@@ -1,0 +1,18 @@
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\RestaurantEntities\bin\Debug\netcoreapp3.1\RestaurantEntities.deps.json
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\RestaurantEntities\bin\Debug\netcoreapp3.1\RestaurantEntities.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\RestaurantEntities\bin\Debug\netcoreapp3.1\RestaurantEntities.pdb
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.csprojAssemblyReference.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.AssemblyInfoInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.AssemblyInfo.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.csproj.CoreCompileInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\RestaurantEntities\bin\Debug\netcoreapp3.1\RestaurantEntities.deps.json
+E:\Gateway\Final Assignment\MicroServicesTraining\RestaurantEntities\bin\Debug\netcoreapp3.1\RestaurantEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\RestaurantEntities\bin\Debug\netcoreapp3.1\RestaurantEntities.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.csprojAssemblyReference.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.AssemblyInfoInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.AssemblyInfo.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.csproj.CoreCompileInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\RestaurantEntities\obj\Debug\netcoreapp3.1\RestaurantEntities.pdb

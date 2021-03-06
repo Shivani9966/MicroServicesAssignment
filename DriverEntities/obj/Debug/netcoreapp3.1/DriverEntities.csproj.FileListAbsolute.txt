@@ -1,0 +1,18 @@
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\DriverEntities\bin\Debug\netcoreapp3.1\DriverEntities.deps.json
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\DriverEntities\bin\Debug\netcoreapp3.1\DriverEntities.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\DriverEntities\bin\Debug\netcoreapp3.1\DriverEntities.pdb
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.csprojAssemblyReference.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.AssemblyInfoInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.AssemblyInfo.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.csproj.CoreCompileInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\DriverEntities\bin\Debug\netcoreapp3.1\DriverEntities.deps.json
+E:\Gateway\Final Assignment\MicroServicesTraining\DriverEntities\bin\Debug\netcoreapp3.1\DriverEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\DriverEntities\bin\Debug\netcoreapp3.1\DriverEntities.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.csprojAssemblyReference.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.AssemblyInfoInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.AssemblyInfo.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.csproj.CoreCompileInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\DriverEntities\obj\Debug\netcoreapp3.1\DriverEntities.pdb

@@ -1,0 +1,18 @@
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\Customer.Entities\bin\Debug\netcoreapp3.1\CustomerEntities.deps.json
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\Customer.Entities\bin\Debug\netcoreapp3.1\CustomerEntities.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\Customer.Entities\bin\Debug\netcoreapp3.1\CustomerEntities.pdb
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.csprojAssemblyReference.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.AssemblyInfoInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.AssemblyInfo.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.csproj.CoreCompileInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\Customer.Entities\bin\Debug\netcoreapp3.1\CustomerEntities.deps.json
+E:\Gateway\Final Assignment\MicroServicesTraining\Customer.Entities\bin\Debug\netcoreapp3.1\CustomerEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\Customer.Entities\bin\Debug\netcoreapp3.1\CustomerEntities.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.csprojAssemblyReference.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.AssemblyInfoInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.AssemblyInfo.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.csproj.CoreCompileInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\Customer.Entities\obj\Debug\netcoreapp3.1\CustomerEntities.pdb

@@ -1,0 +1,88 @@
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.exe
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.deps.json
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.runtimeconfig.json
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.runtimeconfig.dev.json
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.pdb
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.Views.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.Views.pdb
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.csprojAssemblyReference.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.AssemblyInfoInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.AssemblyInfo.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.csproj.CoreCompileInputs.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.MvcApplicationPartsAssemblyInfo.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorAssemblyInfo.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorAssemblyInfo.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\staticwebassets\FoodOrderAppAPIGAteway.StaticWebAssets.Manifest.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\staticwebassets\FoodOrderAppAPIGAteway.StaticWebAssets.xml
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\scopedcss\bundle\FoodOrderAppAPIGAteway.styles.css
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.TagHelpers.input.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.TagHelpers.output.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorCoreGenerate.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorTargetAssemblyInfo.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorTargetAssemblyInfo.cs
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.Views.pdb
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.pdb
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.genruntimeconfig.cache
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.csproj.CopyComplete
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\Shivani\Gateway - company\Training\MicroServices\Assignment\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.exe
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.deps.json
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.runtimeconfig.json
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.runtimeconfig.dev.json
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.Views.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.Views.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.csprojAssemblyReference.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.AssemblyInfoInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.AssemblyInfo.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.csproj.CoreCompileInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.MvcApplicationPartsAssemblyInfo.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorAssemblyInfo.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorAssemblyInfo.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\staticwebassets\FoodOrderAppAPIGAteway.StaticWebAssets.Manifest.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\staticwebassets\FoodOrderAppAPIGAteway.StaticWebAssets.xml
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\scopedcss\bundle\FoodOrderAppAPIGAteway.styles.css
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.TagHelpers.input.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.TagHelpers.output.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorCoreGenerate.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorTargetAssemblyInfo.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.RazorTargetAssemblyInfo.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.Views.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.csproj.CopyComplete
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\obj\Debug\netcoreapp3.1\FoodOrderAppAPIGAteway.genruntimeconfig.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\FoodOrderAppAPIGAteway\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
